@@ -1,2 +1,2 @@
-# animated-octo-robot
+# recipe-app-django
 django pilot for testing and studying 
